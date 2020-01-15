@@ -9050,7 +9050,7 @@ img {
     -ms-flex-wrap: wrap;
     -o-flex-wrap: wrap;
     flex-wrap: wrap;
-    margin-right: 250px;
+    margin-right: 200px;
 }
 @media screen and (max-width:1440px){
 	.promo-speakers__item.slick-slide{padding-left:0px!important;}

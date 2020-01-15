@@ -14029,7 +14029,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 (function main() {
   (0, _jquery.default)('.slider-wrapper').slick({
-    dots: true,
+    dots: false,
     infinite: true,
     slidesToShow: 1,
     slidesToScroll: 1
@@ -14063,7 +14063,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "38535" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "38105" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
