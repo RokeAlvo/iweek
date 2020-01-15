@@ -9441,7 +9441,7 @@ img {
         height: 265px;
         display: block;
         position: relative;
-        padding-left: 75px;
+        padding-left: 40px;
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
         box-sizing: border-box;
@@ -9476,10 +9476,10 @@ img {
         color: #ffffff;
         display: block;
         max-width: 303px;
-        font-size: 44px;
+        font-size: 40px;
         position: relative;
         z-index: 2;
-        font-weight:500;
+        font-weight:400;
         line-height: 47.63px;
         text-transform: uppercase;
     }
@@ -9525,8 +9525,15 @@ img {
         justify-content: center;
     }
     .promo-speakers__heading{
+        height: 259px;
         display: inline-block;
-        margin-top: 40px;
+        display: flex;
+        align-items: center;css
+    images
+    js
+    imweek2.rar
+    index.html
+        /*margin-top: 40px;*/
     }
 
 
@@ -9830,6 +9837,12 @@ img {
             line-height: normal;
             margin-bottom: 30px;
         }
+        .promo-speakers {
+            border-right: none;
+            border-left: none;
+            min-width: calc(100% + 80px);
+            margin-left: -40px;
+        }
     }
     @media only screen and (min-width: 1230px){
         .slider-photos .promo-speakers__photos--inner:nth-child(4) img{
@@ -9853,7 +9866,7 @@ img {
             margin-right: 170px;
         }
         .promo-speakers__photos{
-            right: 25px;
+            right: 0px;
         }
         .promo-headings__head{
             line-height: normal;
