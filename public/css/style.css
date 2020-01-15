@@ -9525,7 +9525,7 @@ img {
         justify-content: center;
     }
     .promo-speakers__heading{
-        height: 259px;
+        height: 100%;
         display: inline-block;
         display: flex;
         align-items: center;css
@@ -10015,6 +10015,9 @@ img {
             margin-top: 30px;
         }
         .promo-speakers__photos .slick-next.slick-arrow{
+            top: 255px;
+        }
+        .promo-speakers__photos .slick-prev.slick-arrow{
             top: 255px;
         }
         .promo-block{
