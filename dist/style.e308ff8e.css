@@ -11,6 +11,13 @@ body {
     background: radial-gradient(50% 50%, #1f1f2d, #050505);
 }
 
+@media screen and (min-width: 1482px){
+    .slider {
+        max-width: 1482px;
+        margin: auto;
+    }
+}
+
 .slider__border {
     border: 3px solid #da021f;
     border-right: none;
@@ -23,7 +30,13 @@ body {
     display: flex;
     align-items: center;
 }
-
+@media screen and (min-width: 1482px){
+    .slider__border {
+        border: 3px solid #da021f;
+        max-width: 1482px;
+        margin-left: 0;
+    }
+}
 .slider__promo {
     z-index: 4;
     max-width: 300px;
@@ -41,6 +54,11 @@ body {
     letter-spacing: -0.42px;
 }
 
+@media screen and (max-width: 1279px){
+    .slider__promo {
+        display: none;
+    }
+}
 .slider-wrapper {
     position: absolute;
     left: calc(100% - 1032px);
@@ -48,6 +66,11 @@ body {
     max-width: 1032px;
 }
 
+@media screen and (min-width: 1482px){
+    .slider-wrapper {
+        left: calc(100% - 1112px);
+    }
+}
 .slider__group {
     position: relative;
     min-width: 1032px;
@@ -62,7 +85,7 @@ body {
 }
 
 .speaker-card:nth-child(1){
-    left: -40px
+    left: -20px
 }
 
 .speaker-card:nth-child(2){
@@ -96,6 +119,24 @@ body {
     text-transform: uppercase;
 }
 
+.speaker-card__final-link {
+    position: relative;
+    top: -130px;
+    left: 150px;
+    width: 111px;
+    height: 39px;
+    color: #ffffff;
+    font-family: "Fira Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25px;
+    text-transform: uppercase;
+}
+
+.speaker-card__final-link a {
+    text-decoration: none;
+    color: inherit;
+}
 .slick-next,
 .slick-prev {
     position: absolute;
@@ -111,11 +152,11 @@ body {
 }
 
 .slick-next {
-    right: 48px;
+    right: 0px;
 }
 
 .slick-prev {
-    left: 48px;
+    left: 0px;
 }
 
 
