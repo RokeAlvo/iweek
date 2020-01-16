@@ -14028,7 +14028,7 @@ require("slick-carousel/slick/slick.css");
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 (function main() {
-  (0, _jquery.default)('.slider-wrapper').slick({
+  (0, _jquery.default)('.slider__wrapper').slick({
     dots: false,
     infinite: true,
     slidesToShow: 1,
@@ -14063,7 +14063,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "41621" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "41251" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
