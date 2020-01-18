@@ -1812,7 +1812,7 @@ img {
 
 .organization-wrapper .left .info {
     position: absolute;
-    left: 10px
+    left: -10px
 }
 
 .organization-wrapper .left .info .name p {
@@ -4808,7 +4808,7 @@ img {
 
     .organization-wrapper .left .info {
         position: absolute;
-        left: 10px
+        left: -10px
     }
 
     .organization-wrapper .left .info .name p {
@@ -6255,7 +6255,7 @@ img {
 
     .organization-wrapper .left .info {
         position: absolute;
-        left: 10px
+        left: -10px
     }
 
     .organization-wrapper .left .info .name p {
@@ -11735,7 +11735,13 @@ img {
     }
 
     .promo-headings__subhead {
-        display: none;
+        /*display: none;*/
+        position: relative;
+        width: calc(100vw - 32px);
+        left: -170px;
+        top: 60px;
+        margin-bottom: 60px;
+        /*text-align: center;*/
     }
 
     .promo-speakers__photos--inner img {
@@ -11924,6 +11930,17 @@ img {
     .promo-headings__head {
         font-size: 22px;
     }
+
+    .promo-headings__subhead {
+        /*display: none;*/
+        /*position: relative;*/
+        /*width: calc(100vw - 32px);*/
+        left: -140px;
+        /*top: 40px;*/
+        /*margin-bottom: 50px;*/
+        /*text-align: center;*/
+    }
+
 }
 
 @media screen and (max-width: 1900px) {
