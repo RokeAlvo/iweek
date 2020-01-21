@@ -506,7 +506,7 @@ img {
 }
 
 .footer.partners .footer-top .footer-middle_info .info-column .title {
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     line-height: 20px;
     color: rgba(255, 255, 255, .5);
@@ -516,7 +516,7 @@ img {
 .footer.partners .footer-top .footer-middle_info .info-column .text {
     font-size: 16px;
     line-height: 22px;
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     color: #fff
 }
 
@@ -551,14 +551,14 @@ img {
 }
 
 .footer.partners .footer-top .footer-middle_info .column .link p {
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     line-height: 20px;
     color: rgba(255, 255, 255, .5)
 }
 
 .footer.partners .footer-top .footer-middle_info .column .link span {
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 18px;
@@ -663,14 +663,14 @@ img {
 }
 
 .footer-top_info .column .link p {
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     line-height: 20px;
     color: rgba(255, 255, 255, .5)
 }
 
 .footer-top_info .column .link span {
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 18px;
@@ -836,7 +836,7 @@ img {
 .general-partner_info .right span {
     font-size: 18px;
     line-height: 32px;
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000
 }
 
@@ -926,7 +926,7 @@ img {
     background: #da021f;
     text-decoration: none;
     text-align: center;
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
@@ -937,7 +937,7 @@ img {
     background: #da021f;
     width: 100%;
     padding: 40px;
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin-bottom: 30px;
     color: #fff
 }
@@ -995,7 +995,7 @@ img {
     border: none;
     background: #000;
     display: table;
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
@@ -1018,35 +1018,35 @@ img {
     background: #fff;
     border: none;
     padding-left: 32px;
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .programm.presents .programm-list_tabs_present form input::-webkit-input-placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .programm.presents .programm-list_tabs_present form input:-ms-input-placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .programm.presents .programm-list_tabs_present form input::-ms-input-placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .programm.presents .programm-list_tabs_present form input::placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
@@ -1057,7 +1057,7 @@ img {
     height: 60px;
     border: none;
     background: #000;
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
@@ -1132,7 +1132,7 @@ img {
 }
 
 .programm-list_tabs_tab_item .info .-name {
-    font-family: 'Source Sans Pro',  sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     line-height: 20px;
     color: #000;
     margin-bottom: 20px
@@ -1368,35 +1368,35 @@ img {
     width: 400px;
     height: 60px;
     margin-right: 20px;
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .form-wrapper form input::-webkit-input-placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .form-wrapper form input:-ms-input-placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .form-wrapper form input::-ms-input-placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .form-wrapper form input::placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
@@ -1407,7 +1407,7 @@ img {
     height: 60px;
     background: #000;
     border: none;
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
@@ -1547,7 +1547,7 @@ img {
 }
 
 .speakers-slider_wrapper .speakers-slide .speaker-overlay .info .desc {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 14px;
     line-height: 20px;
@@ -1555,7 +1555,7 @@ img {
 }
 
 .speakers-slider_wrapper .speakers-slide .speaker-overlay .info a {
-    font-family: 'Source Sans Pro',  sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     color: #da021f;
     text-transform: uppercase;
     text-decoration: none;
@@ -1586,7 +1586,7 @@ img {
 }
 
 .speakers-slider_wrapper .speakers-slide .info .prof {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     margin-bottom: 20px
 }
 
@@ -1606,7 +1606,7 @@ img {
 }
 
 .speakers-slider_wrapper .speakers-slide .info .name {
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 800;
     color: #000;
     text-transform: uppercase;
@@ -1665,7 +1665,7 @@ img {
     font-size: 40px;
     line-height: 48px;
     font-weight: 700;
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-align: center;
     margin-bottom: 20px
 }
@@ -1674,7 +1674,7 @@ img {
 .modal.get-present .modal-content .modal-text {
     font-size: 18px;
     line-height: 28px;
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin-bottom: 40px
 }
 
@@ -1694,7 +1694,7 @@ img {
     background: #fff;
     border: 1px solid #da021f;
     padding-left: 25px;
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
@@ -1702,7 +1702,7 @@ img {
 
 .modal.get-form .modal-content form input::-webkit-input-placeholder,
 .modal.get-present .modal-content form input::-webkit-input-placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
@@ -1710,7 +1710,7 @@ img {
 
 .modal.get-form .modal-content form input:-ms-input-placeholder,
 .modal.get-present .modal-content form input:-ms-input-placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
@@ -1718,7 +1718,7 @@ img {
 
 .modal.get-form .modal-content form input::-ms-input-placeholder,
 .modal.get-present .modal-content form input::-ms-input-placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
@@ -1726,7 +1726,7 @@ img {
 
 .modal.get-form .modal-content form input::placeholder,
 .modal.get-present .modal-content form input::placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
@@ -1737,7 +1737,7 @@ img {
     border: none;
     height: 48px;
     background: #da021f;
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
@@ -1785,7 +1785,7 @@ img {
 
 .modal.speaker-modal .modal-content .info .paragraph {
     margin-bottom: 30px;
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     color: #000;
     font-size: 18px;
     line-height: 28px
@@ -1793,7 +1793,7 @@ img {
 
 .modal.speaker-modal .modal-content .info .date {
     margin-top: 52px;
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     font-size: 24px;
     line-height: 40px;
@@ -1806,7 +1806,7 @@ img {
 }
 
 .modal.speaker-modal .modal-content .info .title {
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 32px;
     line-height: 40px;
@@ -1815,7 +1815,7 @@ img {
 }
 
 .modal.speaker-modal .modal-content .info .subtitle {
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     color: #000;
     font-weight: 700;
     font-size: 24px;
@@ -1836,35 +1836,35 @@ img {
     border: 2px solid #da021f;
     padding-left: 24px;
     margin-right: 20px;
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .modal.speaker-modal .modal-content .info form input::-webkit-input-placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .modal.speaker-modal .modal-content .info form input:-ms-input-placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .modal.speaker-modal .modal-content .info form input::-ms-input-placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .modal.speaker-modal .modal-content .info form input::placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
@@ -1874,7 +1874,7 @@ img {
     width: 360px;
     height: 60px;
     border: none;
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
@@ -1904,7 +1904,7 @@ img {
 }
 
 .modal.speaker-modal .modal-content .speaker-prof p {
-    font-family: 'Source Sans Pro',  sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     font-weight: 600;
     font-size: 24px;
     line-height: 20px;
@@ -1913,14 +1913,14 @@ img {
 }
 
 .modal.speaker-modal .modal-content .speaker-prof span {
-    font-family: 'Source Sans Pro',  sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 18px;
     line-height: 20px;
     color: #000
 }
 
 .modal.speaker-modal .modal-content .speaker-name {
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 800;
     font-size: 40px;
     line-height: 40px;
@@ -1949,7 +1949,7 @@ img {
 
 .modal#register .modal-content .modal-additional {
     color: rgba(41, 40, 67, .54);
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 12px;
     line-height: 16px
 }
@@ -1969,35 +1969,35 @@ img {
     border: 2px solid #da021f;
     padding-left: 24px;
     margin-bottom: 16px;
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .modal#register .modal-content form input::-webkit-input-placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .modal#register .modal-content form input:-ms-input-placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .modal#register .modal-content form input::-ms-input-placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .modal#register .modal-content form input::placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
@@ -2007,7 +2007,7 @@ img {
     width: 340px;
     height: 60px;
     border: none;
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
@@ -2116,7 +2116,7 @@ img {
 }
 
 .follow-socials_text .left ul li {
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     font-size: 22px;
     line-height: 36px;
@@ -2131,7 +2131,7 @@ img {
 }
 
 .follow-socials_calendar .title {
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 38px;
@@ -2143,7 +2143,7 @@ img {
     padding: 50px 0;
     color: #fff;
     text-align: center;
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 32px;
     line-height: 40px
@@ -2366,7 +2366,7 @@ img {
 
 .present-block .text span {
     color: #fff;
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     font-size: 20px;
     line-height: 33px
@@ -2387,35 +2387,35 @@ img {
     background: #fff;
     border: none;
     padding-left: 32px;
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .present-block form input::-webkit-input-placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .present-block form input:-ms-input-placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .present-block form input::-ms-input-placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
 }
 
 .present-block form input::placeholder {
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #000;
     font-size: 16px;
     font-weight: 400
@@ -2426,7 +2426,7 @@ img {
     height: 60px;
     border: none;
     background: #000;
-    font-family: "Source Sans Pro",  sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
@@ -2453,7 +2453,7 @@ img {
 }
 
 .join-us .text .right p {
-    font-family: 'Montserrat',  sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     font-size: 22px;
     line-height: 36px;
@@ -3153,7 +3153,7 @@ img {
     }
 
     .modal.speaker-modal .modal-content .info .subtitle {
-        font-family: 'Montserrat',  sans-serif;
+        font-family: 'Montserrat', sans-serif;
         color: #000;
         font-weight: 700;
         font-size: 24px;
@@ -3211,7 +3211,7 @@ img {
 
     .modal#register .modal-content .modal-additional {
         color: rgba(41, 40, 67, .54);
-        font-family: 'Montserrat',  sans-serif;
+        font-family: 'Montserrat', sans-serif;
         font-size: 12px;
         line-height: 16px
     }
@@ -3330,7 +3330,8 @@ img {
         line-height: 100px;
         font-size: 120px
     }
-
+    
+    .block-subtitle h3,
     .block-title p,
     .block-title h2 {
         font-size: 48px
@@ -3384,28 +3385,28 @@ img {
     }
 
     .organization-wrapper .right form input::-webkit-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
     }
 
     .organization-wrapper .right form input:-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
     }
 
     .organization-wrapper .right form input::-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
     }
 
     .organization-wrapper .right form input::placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
@@ -3441,7 +3442,7 @@ img {
     }
 
     .organization-wrapper .left .info .name span {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         font-size: 24px;
         line-height: 20px;
         color: #da021f;
@@ -4360,7 +4361,7 @@ img {
     .modal.get-present .modal-content form input {
         height: 48px;
         padding-left: 25px;
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
@@ -4368,7 +4369,7 @@ img {
 
     .modal.get-form .modal-content form input::-webkit-input-placeholder,
     .modal.get-present .modal-content form input::-webkit-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
@@ -4376,7 +4377,7 @@ img {
 
     .modal.get-form .modal-content form input:-ms-input-placeholder,
     .modal.get-present .modal-content form input:-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
@@ -4384,7 +4385,7 @@ img {
 
     .modal.get-form .modal-content form input::-ms-input-placeholder,
     .modal.get-present .modal-content form input::-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
@@ -4392,7 +4393,7 @@ img {
 
     .modal.get-form .modal-content form input::placeholder,
     .modal.get-present .modal-content form input::placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
@@ -4401,7 +4402,7 @@ img {
     .modal.get-form .modal-content form button,
     .modal.get-present .modal-content form button {
         height: 48px;
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         font-size: 16px;
         text-transform: uppercase;
         font-weight: 700;
@@ -4538,7 +4539,7 @@ img {
 
     .modal#register .modal-content .modal-additional {
         color: rgba(41, 40, 67, .54);
-        font-family: 'Montserrat',  sans-serif;
+        font-family: 'Montserrat', sans-serif;
         font-size: 12px;
         line-height: 16px
     }
@@ -4796,6 +4797,7 @@ img {
         font-size: 100px
     }
 
+    .block-subtitle h3,
     .block-title p,
     .block-title h2 {
         font-size: 40px
@@ -5049,7 +5051,7 @@ img {
     }
 
     .profit a.btn {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         font-size: 14px;
         text-transform: uppercase;
         font-weight: 700;
@@ -5088,35 +5090,35 @@ img {
         width: calc(50% - 10px);
         margin-bottom: 20px;
         padding-left: 15px;
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .partners-wrapper .form form input::-webkit-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .partners-wrapper .form form input:-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .partners-wrapper .form form input::-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .partners-wrapper .form form input::placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
@@ -5124,7 +5126,7 @@ img {
 
     .partners-wrapper .form form button {
         width: 100%;
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         font-size: 14px;
         text-transform: uppercase;
         font-weight: 700;
@@ -5375,7 +5377,7 @@ img {
 
     .master-group.master-group_single a.btn {
         margin-top: 0;
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         font-size: 14px;
         text-transform: uppercase;
         font-weight: 700;
@@ -5731,7 +5733,7 @@ img {
     }
 
     .mobile-menu.modal#mobile-menu form p {
-        font-family: 'Source Sans Pro',  sans-serif;
+        font-family: 'Source Sans Pro', sans-serif;
         font-weight: 700;
         font-size: 18px;
         line-height: 23px;
@@ -5740,7 +5742,7 @@ img {
     }
 
     .mobile-menu.modal#mobile-menu form input {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400;
@@ -5753,28 +5755,28 @@ img {
     }
 
     .mobile-menu.modal#mobile-menu form input::-webkit-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .mobile-menu.modal#mobile-menu form input:-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .mobile-menu.modal#mobile-menu form input::-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .mobile-menu.modal#mobile-menu form input::placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
@@ -5785,7 +5787,7 @@ img {
         height: 60px;
         border: none;
         background: #da021f;
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         font-size: 14px;
         text-transform: uppercase;
         font-weight: 700;
@@ -5802,7 +5804,7 @@ img {
 
     .mobile-menu.modal#mobile-menu ul li a {
         text-decoration: none;
-        font-family: 'Source Sans Pro',  sans-serif;
+        font-family: 'Source Sans Pro', sans-serif;
         font-weight: 700;
         font-size: 18px;
         line-height: 23px
@@ -5815,6 +5817,10 @@ img {
     .container {
         max-width: 100%;
         padding: 0 20px
+    }
+
+    #organizator > .container:first-child {
+        display: none;
     }
 
     .fixed-header {
@@ -6082,7 +6088,7 @@ img {
     }
 
     .header .promo-wrapper .form form input {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400;
@@ -6095,35 +6101,35 @@ img {
     }
 
     .header .promo-wrapper .form form input::-webkit-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .header .promo-wrapper .form form input:-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .header .promo-wrapper .form form input::-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .header .promo-wrapper .form form input::placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .header .promo-wrapper .form form button {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         font-size: 14px;
         text-transform: uppercase;
         font-weight: 700;
@@ -6291,8 +6297,8 @@ img {
     }
 
     .organization {
-        display: none;
-        /*padding: 50px 0 30px*/
+        /*display: none;*/
+        padding: 50px 0 30px
     }
 
     .organization-wrapper {
@@ -6373,35 +6379,35 @@ img {
         height: 40px;
         margin-right: 10px;
         padding-left: 30px;
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .form-wrapper form input::-webkit-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .form-wrapper form input:-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .form-wrapper form input::-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .form-wrapper form input::placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
@@ -6410,7 +6416,7 @@ img {
     .form-wrapper form button {
         width: 170px;
         height: 40px;
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         font-size: 14px;
         text-transform: uppercase;
         font-weight: 700;
@@ -6444,9 +6450,13 @@ img {
     }
 
     .block-subtitle {
-        font-size: 24px;
-        line-height: 24px;
-        margin-bottom: 30px
+        /*font-size: 24px;*/
+        font-size: 40px;
+        line-height: 140%;
+        /*line-height: 24px;*/
+        margin-bottom: 30px;
+        font-family: "Fira Sans", sans-serif;
+        text-align: center;
     }
 
     .logos-list {
@@ -6465,7 +6475,7 @@ img {
     }
 
     .h3-title {
-        font-family: 'Montserrat',  sans-serif;
+        font-family: 'Montserrat', sans-serif;
         font-weight: 600;
         font-size: 20px;
         line-height: 16px;
@@ -6654,42 +6664,42 @@ img {
         margin-bottom: 20px;
         width: calc(50% - 10px);
         padding-left: 15px;
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .programm.presents .programm-list_tabs_present form input::-webkit-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .programm.presents .programm-list_tabs_present form input:-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .programm.presents .programm-list_tabs_present form input::-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .programm.presents .programm-list_tabs_present form input::placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .programm.presents .programm-list_tabs_present form button {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         font-size: 14px;
         text-transform: uppercase;
         font-weight: 700;
@@ -6912,7 +6922,7 @@ img {
     }
 
     .modal.speaker-modal .modal-content .info form input {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400;
@@ -6921,35 +6931,35 @@ img {
     }
 
     .modal.speaker-modal .modal-content .info form input::-webkit-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .modal.speaker-modal .modal-content .info form input:-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .modal.speaker-modal .modal-content .info form input::-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .modal.speaker-modal .modal-content .info form input::placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 14px;
         font-weight: 400
     }
 
     .modal.speaker-modal .modal-content .info form button {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         font-size: 14px;
         text-transform: uppercase;
         font-weight: 700;
@@ -7002,7 +7012,7 @@ img {
 
     .profit a.btn {
         padding: 0 10px;
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         text-transform: uppercase;
         font-weight: 700;
         color: #fff;
@@ -7036,35 +7046,35 @@ img {
         width: 100%;
         margin-bottom: 10px;
         padding-left: 15px;
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
     }
 
     .partners-wrapper .form form input::-webkit-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
     }
 
     .partners-wrapper .form form input:-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
     }
 
     .partners-wrapper .form form input::-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
     }
 
     .partners-wrapper .form form input::placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
@@ -7072,7 +7082,7 @@ img {
 
     .partners-wrapper .form form button {
         width: 100%;
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         font-size: 16px;
         text-transform: uppercase;
         font-weight: 700;
@@ -7198,7 +7208,7 @@ img {
     .pricelist .table-row {
         width: 100%;
         display: block;
-        font-family: 'Montserrat',  sans-serif;
+        font-family: 'Montserrat', sans-serif;
         margin-top: 10px
     }
 
@@ -7765,7 +7775,7 @@ img {
         height: 48px;
         padding-left: 0;
         text-align: center;
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
@@ -7773,7 +7783,7 @@ img {
 
     .modal.get-form .modal-content form input::-webkit-input-placeholder,
     .modal.get-present .modal-content form input::-webkit-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
@@ -7781,7 +7791,7 @@ img {
 
     .modal.get-form .modal-content form input:-ms-input-placeholder,
     .modal.get-present .modal-content form input:-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
@@ -7789,7 +7799,7 @@ img {
 
     .modal.get-form .modal-content form input::-ms-input-placeholder,
     .modal.get-present .modal-content form input::-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
@@ -7797,7 +7807,7 @@ img {
 
     .modal.get-form .modal-content form input::placeholder,
     .modal.get-present .modal-content form input::placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
@@ -7806,7 +7816,7 @@ img {
     .modal.get-form .modal-content form button,
     .modal.get-present .modal-content form button {
         height: 48px;
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         font-size: 16px;
         text-transform: uppercase;
         font-weight: 700;
@@ -7994,42 +8004,42 @@ img {
     .programm.presents .programm-list_tabs_present form input {
         margin-bottom: 10px;
         width: 100%;
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
     }
 
     .programm.presents .programm-list_tabs_present form input::-webkit-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
     }
 
     .programm.presents .programm-list_tabs_present form input:-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
     }
 
     .programm.presents .programm-list_tabs_present form input::-ms-input-placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
     }
 
     .programm.presents .programm-list_tabs_present form input::placeholder {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         color: #000;
         font-size: 16px;
         font-weight: 400
     }
 
     .programm.presents .programm-list_tabs_present form button {
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         font-size: 16px;
         text-transform: uppercase;
         font-weight: 700;
@@ -8068,7 +8078,7 @@ img {
         background: #da021f;
         height: 40px;
         border: none;
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         font-size: 16px;
         text-transform: uppercase;
         font-weight: 700;
@@ -8183,7 +8193,7 @@ img {
     }
 
     .footer-top_block .info-column .title {
-        font-family: 'Montserrat',  sans-serif;
+        font-family: 'Montserrat', sans-serif;
         color: rgba(255, 255, 255, .5);
         font-size: 12px;
         line-height: 15px;
@@ -8191,7 +8201,7 @@ img {
     }
 
     .footer-top_block .info-column .text {
-        font-family: 'Montserrat',  sans-serif;
+        font-family: 'Montserrat', sans-serif;
         font-style: normal;
         font-weight: 600;
         font-size: 12px;
@@ -8351,10 +8361,13 @@ img {
         font-size: 133px
     }
 
+    .block-subtitle h3,
     .block-title p,
     .block-title h2 {
-        font-size: 18px
+        /*font-size: 18px*/
+        font-size: 30px
     }
+
 
     .master-group .block-title {
         margin-bottom: 40px
@@ -8387,7 +8400,7 @@ img {
 
     .master-group.master-group_single a.btn {
         margin-top: 0;
-        font-family: "Source Sans Pro",  sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         font-size: 16px;
         text-transform: uppercase;
         font-weight: 700;
@@ -9171,7 +9184,7 @@ img {
 
 .promo-headings__head {
     color: #ffffff;
-    font-family: 'Fira Sans',  sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     font-size: 44px;
     font-weight: 700;
     letter-spacing: -0.28px;
@@ -9191,7 +9204,7 @@ img {
 
 .fast-reg__bottom {
     color: #9c9c9c;
-    font-family: 'Fira Sans',  sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     font-size: 20px;
     margin-top: 25px;
     font-weight: 400;
@@ -9221,7 +9234,7 @@ img {
 
 .fast-reg__controls input::placeholder {
     color: #ffffff;
-    font-family: 'Fira Sans',  sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     font-size: 21px;
     font-weight: 400;
     line-height: 19px;
@@ -9242,7 +9255,7 @@ img {
     border: 2px solid #da021f;
     color: #ffffff;
     background-color: #da021f;
-    font-family: 'Fira Sans',  sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     font-size: 21px;
     font-weight: 400;
     line-height: 19px;
@@ -9555,7 +9568,7 @@ img {
     color: #6f6b6b;
     display: inline-block;
     vertical-align: middle;
-    font-family: 'Fira Sans',  sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     font-size: 20px;
     font-weight: 400;
     line-height: 22px;
@@ -9592,11 +9605,16 @@ img {
     left: 13px;
 }
 
+.event-block__container.lazy {
+    background-image: none;
+}
+
 .event-block {
     background-image: url(../images/new/microphone.png);
     background-repeat: no-repeat;
     background-color: #000;
 }
+
 
 .event-block__container {
     display: -webkit-flex;
@@ -10689,7 +10707,7 @@ input:focus::placeholder {
     border: 2px solid #da021f;
     color: #ffffff;
     background-color: #da021f;
-    font-family: 'Fira Sans',  sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     font-size: 21px;
     font-weight: 400;
     line-height: 19px;
