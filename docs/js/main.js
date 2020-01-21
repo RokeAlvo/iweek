@@ -291,5 +291,7 @@ $(document).ready(function(){
 		$("html:not(:animated),body:not(:animated)").animate({
 	      scrollTop: destination
 	    }, 800);
-	});	
+	});
+
+	$('#youtube-player').prop('src', 'https://www.youtube.com/embed/jQhmZ-GzkSk')
 })
