@@ -12068,7 +12068,7 @@ input:focus::placeholder {
 
 .organization-wrapper .right form input::placeholder, .partners-wrapper .form form input::placeholder, .form-wrapper form input::placeholder, .partners-wrapper.white .form form input::placeholder, .programm.presents .programm-list_tabs_present form input::placeholder {
     color: #000 !important;
-    font-family: "Fira Sans", sans-serif; !important;
+    font-family: "Fira Sans", sans-serif !important;
     font-size: 21px !important;
     font-weight: 500 !important;
     line-height: 19.43px;
